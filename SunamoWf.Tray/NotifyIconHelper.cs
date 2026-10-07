@@ -31,7 +31,7 @@ public class NotifyIconHelper
         {
             foreach (KeyValuePair<string, Action> item in contextMenuItems)
             {
-                notifyIcon.ContextMenuStrip.Items.Add(ToolStripButtonHelper.Get(item.Key, (sender, e) => item.Value()));
+                notifyIcon.ContextMenuStrip.Items.Add(ToolStripButtonHelper.Get(item.Key, (sender, eventArgs) => item.Value()));
             }
         }
     }
