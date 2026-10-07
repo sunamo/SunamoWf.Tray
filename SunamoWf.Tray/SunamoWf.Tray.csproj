@@ -6,7 +6,7 @@
     <RootNamespace>SunamoWf</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
     <Description>WinForms system tray (NotifyIcon) helpers extracted from sunamoWithoutDep.wf</Description>
-    <Version>26.9.28.1</Version>
+    <Version>26.10.7.2</Version>
     <Authors>www.sunamo.cz</Authors>
     <Copyright>www.sunamo.cz</Copyright>
     <PackageProjectUrl>https://sunamo.github.io/PlatformIndependentNuGetPackages/SunamoWf.Tray/</PackageProjectUrl>
