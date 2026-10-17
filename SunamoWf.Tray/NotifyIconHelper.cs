@@ -1,4 +1,4 @@
-namespace SunamoWf.Tray;
+namespace SunamoWf;
 
 /// <summary>
 /// Creates and configures a WinForms system tray icon (NotifyIcon).

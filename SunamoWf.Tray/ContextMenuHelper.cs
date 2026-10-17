@@ -1,4 +1,4 @@
-namespace SunamoWf.Tray;
+namespace SunamoWf;
 
 /// <summary>
 /// Builds a WinForms tray icon context menu.

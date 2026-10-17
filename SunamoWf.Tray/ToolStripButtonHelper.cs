@@ -1,4 +1,4 @@
-namespace SunamoWf.Tray;
+namespace SunamoWf;
 
 /// <summary>
 /// Creates ToolStripButton instances for context menus.
