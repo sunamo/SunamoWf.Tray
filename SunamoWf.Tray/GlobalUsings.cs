@@ -8,3 +8,4 @@ global using System.Runtime.InteropServices;
 global using System.Text;
 global using System.Threading.Tasks;
 global using System.Windows.Forms;
+global using SunamoWf;
